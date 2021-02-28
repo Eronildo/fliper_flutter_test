@@ -1,0 +1,4 @@
+{
+    "graphql_end_point": "YOUR_GRAPHQL_END_POINT",
+    "hasura_secret": "YOUR_HASURA_SECRET"
+}
